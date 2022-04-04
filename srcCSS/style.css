@@ -1,5 +1,5 @@
 body {
-  background-image: url(/img/wp3989614-vector-wallpapers.jpg);
+  background-image: url(../img/wp3989614-vector-wallpapers.jpg);
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -11,6 +11,7 @@ body {
   min-height: 400px;
   gap: 8px;
 }
+
 
 .cores {
   opacity: 2;
