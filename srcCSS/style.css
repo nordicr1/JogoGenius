@@ -1,5 +1,5 @@
 body {
-  background-image: url(../img/wp3989614-vector-wallpapers.jpg);
+  background-image: url(/img/wp3989614-vector-wallpapers.jpg);
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -76,7 +76,7 @@ body {
 
 .barraDisplay {
   margin-top: 50px;
-  width: 350px;
+  width: 650px;
   height: 40px;
   background: white;
   font-size: 20px;
