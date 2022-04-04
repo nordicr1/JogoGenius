@@ -61,7 +61,7 @@ for(let i = 0; i < cores.length; i++) {
 			}
 		}
 		else {
-			textoDisplay.innerHTML = "ERROU, CLIQUE EM RESET !";
+			textoDisplay.innerHTML = "ERROU, CLIQUE EM RESET !" + ' VOCÊ CHEGOU ATÉ O ' + 'LEVEL: ' + playerComputador.length;
 			buttonStartClick = false;
 			
 			
